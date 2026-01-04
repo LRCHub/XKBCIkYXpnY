@@ -1,0 +1,46 @@
+# Dean Lewis – Small Disasters (Official Lyric Video)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:06.41] Rest my head against the wall
+[00:09.41] Waiting for a call that never came
+[00:14.01] 'Cause time moves so slowly
+[00:18.00] When you're still holding onto blame
+[00:23.30] I tried but can't forget the day
+[00:26.45] You were reaching for my hand as I touched your face
+[00:30.99] When your secrets were still safe from me
+[00:35.76] Till your eyes gave you away
+[00:40.71] 'Cause we are drowning above the water
+[00:45.18] In a movie drained of color
+[00:49.69] Luckless lovers
+[00:51.61] With a past that's just a string of small disasters
+[00:58.08] I'd give it all just to feel something real
+[01:06.74] And now I see the warning signs
+[01:09.83] With the benefit of hindsight, I was blind
+[01:14.42] To the way you'd make me feel so crazy
+[01:19.60] Just to protect your lies
+[01:23.87] And all I wanted was the truth
+[01:26.68] The better part of you that I still see
+[01:31.89] 'Cause love is all we have to give
+[01:36.16] But you took my best for free
+[01:40.97] 'Cause we are drowning above the water
+[01:45.61] In a movie drained of color
+[01:50.14] Luckless lovers
+[01:52.22] With a past that's just a string of small disasters
+[01:58.65] I'd give it all just to feel something real
+[02:06.20] And the one thing that really hurts is
+[02:10.38] We were so close to being perfect
+[02:14.65] And I know you'll be okay
+[02:18.13] And that's what kills me, yeah
+[02:24.28] 'Cause we are drowning above the water
+[02:28.56] In a movie drained of color
+[02:33.22] Luckless lovers
+[02:35.14] With a past that's just a string of small disasters
+[02:41.61] 'Cause we are drowning above the water
+[02:45.86] In a movie drained of color
+[02:50.28] Luckless lovers
+[02:52.27] With a past that's just a string of small disasters
+[02:58.59] I'd give it all just to feel something real (something real)
+[03:06.47] Oh, I'd give it all just to feel something real
+```
