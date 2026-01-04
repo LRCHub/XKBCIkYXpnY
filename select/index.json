@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Small Disasters (Official Lyric Video)",
+  "base_artist": "Dean Lewis",
+  "createdAt": "2026-01-04T13:06:48.962031Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Small Disasters",
+      "artist": "Dean Lewis",
+      "has_synced": true,
+      "path": "select/01_Small_Disasters_Dean_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Small Disasters",
+      "artist": "Dean Lewis",
+      "has_synced": true,
+      "path": "select/02_Small_Disasters_Dean_Lewis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Small Disasters",
+      "artist": "Dean Lewis",
+      "has_synced": false,
+      "path": "select/pl_01_Small_Disasters_Dean_Lewis.txt"
+    }
+  ]
+}
